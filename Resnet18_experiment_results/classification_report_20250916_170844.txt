@@ -1,0 +1,29 @@
+Classification Report
+==================================================
+
+Overall Accuracy: 0.9808
+Macro Precision: 0.9828
+Macro Recall/Sensitivity: 0.9761
+Macro F1-Score: 0.9790
+Average Specificity: 0.9899
+
+Per-class Metrics:
+--------------------------------------------------
+UA:
+  Precision: 1.0000
+  Recall/Sensitivity: 0.9400
+  Specificity: 1.0000
+  F1-Score: 0.9691
+
+NUA:
+  Precision: 0.9884
+  Recall/Sensitivity: 0.9884
+  Specificity: 0.9918
+  F1-Score: 0.9884
+
+MIX:
+  Precision: 0.9600
+  Recall/Sensitivity: 1.0000
+  Specificity: 0.9779
+  F1-Score: 0.9796
+
